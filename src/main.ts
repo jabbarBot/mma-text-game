@@ -1,5 +1,5 @@
 import './style.css'
 import { createApp } from 'vue'
-import FighterContracts from './components/FighterContracts.vue'
+import TrainingSystem from './components/TrainingSystem.vue'
 
-createApp(FighterContracts).mount('#app')
+createApp(TrainingSystem).mount('#app')
